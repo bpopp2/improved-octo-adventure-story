@@ -1,5 +1,10 @@
-In the sea there was once an octopus named Admirabilis.
+	In the sea there was once an octopus named Admirabilis.
 They had lost their parents who went missing one night when they were only a year old.
 Admirabilis was taken in by some wise elders of the community, who told them that their parents were killed by fishermen.
 After Admirabilis became an adult, one of the elders told them about the truth of their parents.
 Admirabilis, feeling both betrayed and hopeful, decided to leave the community and take a journey to find their parents. 
+
+	Admirabilis knew it would be difficult to find their parents, for the elder only reluctantly told him they were alive
+in the first place, refusing to give any sort of guidance as to how to find them. He picked a direction and started
+swimming. He would search the whole sea if he had to. After all, after what his parents sacrificed for him, it was the
+least he could do. 
